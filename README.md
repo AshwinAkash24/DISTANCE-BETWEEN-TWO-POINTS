@@ -14,7 +14,7 @@ Using the formula display the result
 ### Step 5: 
 Stop the  program
 ### PROGRAM:
- `````` 
+ ``` 
 #Program to find the distance between two points.
 #Developed by: Ashwin Akash M
 #RegisterNumber:23009906
@@ -24,7 +24,7 @@ l2=[10,6]
 distance=math.sqrt((l2[0]-l1[0])**2+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
-OUTPUT:
+### OUTPUT:
 ![45](https://github.com/AshwinAkash24/DISTANCE-BETWEEN-TWO-POINTS/assets/144979248/e9eadb02-4990-4a47-9667-4dc24313658b)
 
 ### RESULT:

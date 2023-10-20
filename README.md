@@ -25,7 +25,8 @@ distance=math.sqrt((l2[0]-l1[0])**2+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-!['Output'](/distancess.png)
+![image](https://github.com/AshwinAkash24/DISTANCE-BETWEEN-TWO-POINTS/assets/144979248/91af7d90-1764-4d5b-b12a-4f99ca2be87c)
+
 ### RESULT:
 Thus the python program to find the distance between two points is executed successfully
 
